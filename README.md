@@ -1,16 +1,14 @@
-### Hi there 👋
+# B.S Computer Engineering Student at Universidad de Guadalajara
 
-<!--
-**Jcee02/Jcee02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello there!
+I'm Juan, a student from the University Center of Exact Sciences and Engineering (UDG-CUCEI) currently enrolled in my 5th semester.
+I'm passionate about low level systems and how they interface with real world applications.
+My current objectives with the academy is to develop efficient and innovative lines of research to integrate current topics of interest on fields like Combinatorics, Functional Programming, Type Theory, Computer-Assisted Theorem Proving and so for.
+
+I share intelectual interests with fields like: Abstract Algebra, Artificial Intelligence, Embedded Systems, Automata Theory, Compiler Design, Computer Assisted Proofs.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcee02&layout=compact)
+
