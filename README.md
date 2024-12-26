@@ -10,5 +10,5 @@ My current objectives with the academy is to develop efficient and innovative li
 I share intelectual interests with fields like: Abstract Algebra, Artificial Intelligence, Embedded Systems, Automata Theory, Compiler Design, Computer Assisted Proofs.
 
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Jcee02&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcee02&layout=compact))
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcee02"/>
 
